@@ -30,14 +30,14 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 
 return [
     'site' => [
-        'name' => $siteName,
+        'name' => '立ち飲ミスト。（Tomos GitHub版）',
         'description' => '',
         'url' => $siteUrl,
         'base_path' => $basePath,
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-minimal',
+        'name' => 'tomos-index',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
