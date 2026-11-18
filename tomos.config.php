@@ -37,7 +37,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'wiki',
+        'name' => 'tomos-blog',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
