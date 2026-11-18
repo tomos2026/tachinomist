@@ -37,7 +37,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-quiet',
+        'name' => 'wiki',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
